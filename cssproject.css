@@ -1,0 +1,55 @@
+#top { 
+   height:268px; 
+   width:1229px; 
+   background:white;    
+}
+
+#main { 
+   width:100%; 
+   height:100%;
+   margin-left:200px;
+      background-image: url("background.jpg");
+}
+
+#upleft { 
+   width:100%; 
+   height: 100%;
+   background-image: url("background.jpg");
+   float:left;
+   margin-top:29px; 
+}
+
+#upright { 
+   width:100%;
+   height: 100%;
+   background-image: url("background.jpg");   
+   float:right; 
+   margin-top:29px;
+}
+
+
+
+
+#mainn { 
+   width:100%; 
+   height:100%;
+   margin-left:350px;
+
+   background-color:white;
+   border:1px solid grey;
+
+}
+
+#upleftt{ 
+   width:100%; 
+   height: 100%;
+   background-image: url("background.jpg");
+   float:left;
+}
+
+#uprightt { 
+   width:100%;
+   height: 100%;
+   background-image: url("background.jpg");   
+   float:right; 
+}
